@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Amzad",
+      "gender": "male",
+      "contact": 193808035,
+      "address": "Dhaka Bangladesh",
+      "PhotoUrl": "https://images.unsplash.com/photo-1597204081767-4c14a6b7cbec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c2luZ2xlJTIwbWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Amzad",
+      "gender": "Male",
+      "contact": 193808035,
+      "address": "Dhaka Bangladesh",
+      "PhotoUrl": "https://images.unsplash.com/photo-1597204081767-4c14a6b7cbec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c2luZ2xlJTIwbWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Sewli",
+      "gender": "Female",
+      "contact": 23434223243,
+      "address": "Khulna Bangladesh",
+      "PhotoUrl": "https://www.rd.com/wp-content/uploads/2020/02/image0.jpg?fit=700,826"
+    },
+    {
+      "id": 4,
+      "name": "Rakib",
+      "gender": "Male",
+      "contact": 34343243243,
+      "address": "Barisal Bangladesh",
+      "PhotoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV1bRHTCWxEclNs9lEXy8xeLyTzgFJGgyf7XjS3OzYlLvGJ6pr7bcU14vO56ety5Q-ibE&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "name": "Trisha",
+      "gender": "Female",
+      "contact": 313465423243,
+      "address": "Noakhali Bangladesh",
+      "PhotoUrl": "https://i.pinimg.com/236x/91/9f/2f/919f2fe61810c97049108286d42762fb--a-single-man-eye-makeup.jpg"
+    }
+  ]
